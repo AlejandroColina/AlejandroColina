@@ -41,14 +41,14 @@ I am a person who appropriates the proposed objectives, who takes responsibility
 <img height=300px width=600px src="https://res.cloudinary.com/dojsvmsif/image/upload/v1655410990/Personal/finderApp_ghg1vm.jpg"/>
 <h3>Finder App</h3>
 <p>
-This is an app made with react.js, node.js. express.js among others. It consists of registering and being able to offer or hire professional services such as, for example, private classes, appliance repair.
+This is an app made with react.js, node.js. express.js among others. It consists of registering and being able to offer or hire professional services such as, for example, private classes, appliance repair. <a href="https://finder-app-omega.vercel.app/"> Go to Finder</a>
 </p>
-
 <h2><h2/> 
 
 <img height=300px width=600px src="https://res.cloudinary.com/dojsvmsif/image/upload/v1655410880/Personal/ApiAnime_xcnixk.jpg"/>
 <h3>Slider</h3>
 <p>
 This is a slider app, it consists of showing the most viewed movies, you can search and see their description. It is based on consuming an anime api.
-</p>
+  <a href="https://alejandrocolina.github.io/AnimeChallenge/"> Go to the Slider</a>
+ </p>
   
